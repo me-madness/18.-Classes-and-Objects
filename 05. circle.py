@@ -1,6 +1,7 @@
 # First task from the lecture
 
 class Circle:
+    __pi = 3.14
     def __init__(self):
         pass
     

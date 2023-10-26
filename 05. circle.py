@@ -14,7 +14,7 @@ class Circle:
     
     
     def calculate_area(self):
-            
+        return Circle.__pi * self.radius * self.radius    
     
     
     

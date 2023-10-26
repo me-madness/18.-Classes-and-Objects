@@ -13,7 +13,8 @@ class Circle:
         return Circle.__pi * self.diameter
     
     
-    def calculate_area()    
+    def calculate_area(self):
+            
     
     
     
